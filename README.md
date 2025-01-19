@@ -29,8 +29,6 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## General Information
-![UltraBall](http://img1.wikia.nocookie.net/__cb20101106022319/pokemon/images/f/f1/UltraBallArt.png)
-
 - We are currently lacking in time for development of this project, with only four weeks in this accelerated semester. 
 
 
